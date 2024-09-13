@@ -1,0 +1,28 @@
+{
+  "fname": "",
+  "lname": "",
+  "user": "",
+  "email": "",
+  "address": "",
+  "country": null,
+  "state": null,
+  "nameOnCard": "",
+  "ccn": "",
+  "cce": "",
+  "cvv": "",
+  "order": {
+    "products": [
+      {
+        "title": "Trollface",
+        "quantity": 4,
+        "subtotal": 1680
+      },
+      {
+        "title": "Doge",
+        "quantity": 1,
+        "subtotal": 420
+      }
+    ],
+    "profit": 2100
+  }
+}
